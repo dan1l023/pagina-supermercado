@@ -1,2 +1,4 @@
-package com.example.paginasupermercado.persistence;public class CompraRepository {
+package com.example.paginasupermercado.persistence;
+
+public class CompraRepository {
 }
